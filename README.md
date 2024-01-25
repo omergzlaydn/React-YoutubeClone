@@ -22,6 +22,9 @@ This project is a YouTube clone developed using React. It provides users with a 
 - **React Player**: Embedding and playing videos.
 - **Tailwind CSS**: Styling for a fast and customizable design.
 
+  ## Screen
+<img src="./public/clone.gif"/>
+
 ## Installation
 
 To install the required libraries, run the following command:
@@ -54,5 +57,4 @@ const searchParams = useSearchParams();
 const productId = searchParams.get('id');
 const category = searchParams.get('categoryß');
 
-## Screen
-![](./public/clone.gif)
+
